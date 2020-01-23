@@ -15,7 +15,7 @@ a good way to expose the UDP ports on the same IP address.  If you know how to d
 # Installing
 
 ```
-git clone ...
+git clone https://github.com/krisclarkdev/unifi-controller-k8s-deployment.git
 ```
 
 Open unifi-controller.yaml and make the appropriate changes for the PV and PVC for your enviornment.
